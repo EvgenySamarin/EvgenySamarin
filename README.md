@@ -35,6 +35,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="" alt="" width="50" height="50" />&nbsp;
 </div>
 
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=EvgenySamarin&theme=dark&hide_border=true&sideNums=DD8436&ring=FF871DBE)](https://git.io/streak-stats)
+
 <!--
 **EvgenySamarin/EvgenySamarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
