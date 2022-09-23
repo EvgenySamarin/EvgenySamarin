@@ -37,28 +37,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="50" height="50" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="50" height="50" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="" alt="" width="50" height="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Gradle" alt="Gradle" width="50" height="50" />&nbsp;
 </div>
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=EvgenySamarin&theme=dark&hide_border=true&sideNums=DD8436&ring=FF871DBE)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgenySamarin&layout=compact&theme=dark&hide_border=true&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
-
-    
-
-
-<!--
-**EvgenySamarin/EvgenySamarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
