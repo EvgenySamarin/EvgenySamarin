@@ -19,7 +19,7 @@
 ## Android developer at <a href="https://pochta.tech">Pochta.Tech</a>
 ### 
 - :feet: &nbsp; Certified specialist
-- :feet: &nbsp; 3 years of experience in commercial developing mobile applications using Kotlin and Java, Android SDK
+- :feet: &nbsp; 4 years of experience in commercial developing mobile applications using Kotlin and Java, Android SDK
 - :feet: &nbsp; Used JUnit / Mockito to cover the code with tests
 - :feet: &nbsp; Troubleshooting, debugging and profiling to ensure smooth operation, performance and stability on a multi-module project
 - :feet: &nbsp; Participated in the development of the design system 
