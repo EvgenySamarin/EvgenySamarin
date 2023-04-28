@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=EvgenySamarin&style=flat-square&color=blue" alt=""/>
 </div>
 
-## Android developer at <a href="https://pochta.tech">Pochta.Tech</a>
+## Android developer at <a href="https://pochta.tech">Krit.pro</a>
 ### 
 - :feet: &nbsp; Certified specialist
 - :feet: &nbsp; 4 years of experience in commercial developing mobile applications using Kotlin and Java, Android SDK
