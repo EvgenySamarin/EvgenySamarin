@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=EvgenySamarin&style=flat-square&color=blue" alt=""/>
 </div>
 
-## Android developer at <a href="https://krit.pro">Krit.pro</a>
+## Android developer at <a href="https://moneybase.com">Moneybase</a>
 ### 
 - :feet: &nbsp; Certified specialist
 - :feet: &nbsp; 5 years of experience in commercial developing mobile applications using Kotlin and Java, Android SDK
