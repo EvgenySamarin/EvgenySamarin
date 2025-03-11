@@ -16,15 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=EvgenySamarin&style=flat-square&color=blue" alt=""/>
 </div>
 
-## Android developer at <a href="https://moneybase.com">Moneybase</a>
-### 
-- :feet: &nbsp; Certified specialist
-- :feet: &nbsp; 5 years of experience in commercial developing mobile applications using Kotlin and Java, Android SDK
-- :feet: &nbsp; Used JUnit / Mockito to cover the code with tests
-- :feet: &nbsp; Troubleshooting, debugging and profiling to ensure smooth operation, performance and stability on a multi-module project
-- :feet: &nbsp; Participated in the development of the design system 
-- :feet: &nbsp; Created custom View components
-
 ### Languages and Tools 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50" style="vertical-align: middle;"/>&nbsp;
