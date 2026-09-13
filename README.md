@@ -39,4 +39,4 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=EvgenySamarin&theme=dark&hide_border=true&sideNums=DD8436&ring=FF871DBE)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgenySamarin&layout=compact&theme=dark&hide_border=true&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=EvgenySamarin&layout=compact&theme=dark&hide_border=true&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
