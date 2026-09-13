@@ -35,6 +35,8 @@
 <img src="res/GoogleAntigravityLogo.svg" title="Antigravity" alt="Antigravity" width="50" height="50" />
 <img src="res/GoogleGemini.svg" title="Gemini" alt="Gemini" width="50" height="50" />
 <img src="res/GitHubCopilot.svg" title="GitHubCopilot" alt="GitHubCopilot" width="50" height="50" />
+<img src="res/datadog.svg" title="DataDog" alt="DataDog" width="50" height="50" />
+<img src="res/sentry.svg" title="Sentry" alt="Sentry" width="50" height="50" />
    
 
 </div>
