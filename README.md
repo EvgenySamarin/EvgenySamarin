@@ -34,6 +34,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Google" alt="Google" width="50" height="50" />&nbsp; 
 <img src="res/GoogleAntigravityLogo.svg" title="Google" alt="Google" width="50" height="50" />
 <img src="res/GoogleGemini.svg" title="Google" alt="Google" width="50" height="50" />
+<img src="res/GitHubCopilot.svg" title="Google" alt="Google" width="50" height="50" />
    
 
 </div>
